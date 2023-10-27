@@ -1,0 +1,15 @@
+/Users/elenaperminova/Desktop/InterimСertification/Task64/bin/Debug/net6.0/Task64
+/Users/elenaperminova/Desktop/InterimСertification/Task64/bin/Debug/net6.0/Task64.deps.json
+/Users/elenaperminova/Desktop/InterimСertification/Task64/bin/Debug/net6.0/Task64.runtimeconfig.json
+/Users/elenaperminova/Desktop/InterimСertification/Task64/bin/Debug/net6.0/Task64.dll
+/Users/elenaperminova/Desktop/InterimСertification/Task64/bin/Debug/net6.0/Task64.pdb
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/Task64.csproj.AssemblyReference.cache
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/Task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/Task64.AssemblyInfoInputs.cache
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/Task64.AssemblyInfo.cs
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/Task64.csproj.CoreCompileInputs.cache
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/Task64.dll
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/refint/Task64.dll
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/Task64.pdb
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/Task64.genruntimeconfig.cache
+/Users/elenaperminova/Desktop/InterimСertification/Task64/obj/Debug/net6.0/ref/Task64.dll
