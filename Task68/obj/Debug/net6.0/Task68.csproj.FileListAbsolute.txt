@@ -1,0 +1,15 @@
+/Users/elenaperminova/Desktop/InterimСertification/Task68/bin/Debug/net6.0/Task68
+/Users/elenaperminova/Desktop/InterimСertification/Task68/bin/Debug/net6.0/Task68.deps.json
+/Users/elenaperminova/Desktop/InterimСertification/Task68/bin/Debug/net6.0/Task68.runtimeconfig.json
+/Users/elenaperminova/Desktop/InterimСertification/Task68/bin/Debug/net6.0/Task68.dll
+/Users/elenaperminova/Desktop/InterimСertification/Task68/bin/Debug/net6.0/Task68.pdb
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/Task68.csproj.AssemblyReference.cache
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/Task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/Task68.AssemblyInfoInputs.cache
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/Task68.AssemblyInfo.cs
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/Task68.csproj.CoreCompileInputs.cache
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/Task68.dll
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/refint/Task68.dll
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/Task68.pdb
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/Task68.genruntimeconfig.cache
+/Users/elenaperminova/Desktop/InterimСertification/Task68/obj/Debug/net6.0/ref/Task68.dll
